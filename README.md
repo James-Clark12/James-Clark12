@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on becoming a better engineer.
+🔭 Frontend Engineer
 
 <!--
 **James-Clark12/James-Clark12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
