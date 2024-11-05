@@ -1,4 +1,3 @@
-### Hi there 👋
 
 🥸 Nothing to see here, all my repos are private
 
